@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sunset Treasure Chest
+* source:	https://sketchfab.com/3d-models/sunset-treasure-chest-4c01ce74a641459ab6f103ef7ebf7b6c
+* author:	glenatron (https://sketchfab.com/glenatron)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sunset Treasure Chest" (https://sketchfab.com/3d-models/sunset-treasure-chest-4c01ce74a641459ab6f103ef7ebf7b6c) by glenatron (https://sketchfab.com/glenatron) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
